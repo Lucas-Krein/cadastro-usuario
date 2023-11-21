@@ -89,7 +89,7 @@ app.get('/listar', function (req, res) {
             <html>
                  <head>
                     <title> Perfil </title>
-                    <link rel="stylesheet" type="text/css" href="/estilo.css">
+                    <link rel="stylesheet" type="text/css" href="//estilo.css">
                     <link rel="icon" type="image/x-icon" href="download.png">
                  </head>
                  <body class="fundoperfil">
@@ -175,7 +175,7 @@ app.get("/atualizar-form/:cod_jogador", function (req, res) {
                 <div class="cabecalhoeditar">
                     <h1><p>
                         <a href="/listar">Perfil</a href>
-                        <a href="/"> Home</a href>   
+                        <a href="https://lucas-krein.github.io/cadastro-usuario/"> Home</a href>   
                     </p></h1>
                 </div>
                 
